@@ -4,3 +4,32 @@ body {
     background-size: cover;
     height: 100vh;
 }
+img{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+.navbar {
+    text-align: right;
+    padding: 20px 0;
+  }
+  
+  .navbar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .navbar ul li {
+    display: inline-block;
+  }
+  
+  .navbar ul li a {
+    display: block;
+    text-decoration: none;
+    padding: 15px;
+    font-weight: 600;
+    color: #6c6c6c;
+  }
+  
+
